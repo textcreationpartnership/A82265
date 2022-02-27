@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration; together vvith the petition and remonstrance of the Lords, Knights, Gentlemen, Ministers, and Free-holders of the county of Hampeshire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82265</idno>
+            <idno type="STC">Wing D801</idno>
+            <idno type="STC">Thomason E447_18</idno>
+            <idno type="STC">ESTC R204928</idno>
+            <idno type="EEBO-CITATION">99864376</idno>
+            <idno type="PROQUEST">99864376</idno>
+            <idno type="VID">161809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82265)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161809)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration; together vvith the petition and remonstrance of the Lords, Knights, Gentlemen, Ministers, and Free-holders of the county of Hampeshire.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures A⁴.</note>
+                  <note>Annotation on Thomason copy: "June 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161809:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>THE DECLARATION, Together vvith the PETITION AND REMONSTRANCE OF THE Lords, Knights, Gentlemen, Miniſters, and Free-holders of the COUNTY of <hi>HAMPESHIRE.</hi>
+            </p>
+            <p>
+               <date>
+                  <add>June 14<hi rend="sup">th</hi>
+                  </add>
+               </date> 
+               <hi>LONDON,</hi> Printed for <hi>H. W.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161809:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:161809:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>The Declaration, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Ore than this our humble Ad<g ref="char:EOLhyphen"/>dreſſe at preſent wee intended not, but having received cer<g ref="char:EOLhyphen"/>taine information, of late how the <hi>Eſſex Petition</hi> was though ſeemingly accepted, yet indeed really ſleighted: And how barbarous an Anſwer was re<g ref="char:EOLhyphen"/>turn'd to the Petitioners of <hi>Surrey,</hi> out of the mouthes of Muskets, and from the bloudy hands of Sectaries; a preſident ſo full of horror, injuſtice, and more than Turkiſh tyranny, that all the free Sub<g ref="char:EOLhyphen"/>iects of <hi>England</hi> ought to look upon with with extreame deteſtation. And laſtly conſidering that our brethren of <hi>Kent</hi> were referr'd to receive ſatisfaction to their humble addreſſe to the two Houſes,
+<pb facs="tcp:161809:3"/>
+               <!-- PDF PAGE 57 -->only from the Lord <hi>Fairefax,</hi> and his in<g ref="char:EOLhyphen"/>ſulting Army, we are forc'd to annex this briefe Declaration, to our humble Petiti<g ref="char:EOLhyphen"/>on.</p>
+            <p>That if our Meſſengers by us entruſted receive not a full and ſatisfactory Anſwer to theſe our modeſt Requeſts, that wee will ſpeedily arme our ſelves, and aſſoci<g ref="char:EOLhyphen"/>ate with other Counties, and endeavour by Gods bleſsing to free our ſelves from that ſlavery which this preſent Army, getting no ſmall advantage by the cun<g ref="char:EOLhyphen"/>ning &amp; fraudulent delayes of the Houſes, threaten to bring upon us and our Poſte<g ref="char:EOLhyphen"/>rities.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:161809:3"/>
+            <!-- PDF PAGE 57 -->
+            <head>TO The Honourable Houſes of Parliament aſſembled at <hi>WESTMINSTER.</hi>
+            </head>
+            <head type="sub">The humble PETITION of the Lords, Knights, Gentlemen, Miniſters, and Freeholds of the County of <hi>HAMPESHIRE.</hi>
+            </head>
+            <opener>Humbly Sheweth;</opener>
+            <p>THat your Petitioners having taken into their ſad and ſerious thoughts, the preſ<g ref="char:EOLhyphen"/>ſing, and almoſt unſupportable miſeries under which this whole Kingdom groanes: Religion in stead of being reformed, is metamorphis'd into ſo many ſhapes, that the Synagogue of <hi>Rome</hi> does exult; and for the Diviſions a<g ref="char:EOLhyphen"/>mongst us, the truely Orthodox have great thoughts of heart; our heavy Taxes, and other illegall wayes of raiſing vaſt Summes, though none of the Royall party have for many months appeared, unleſſe in Priſon, or under
+<pb facs="tcp:161809:4"/>
+               <!-- PDF PAGE 58 -->Sequeſtration, and ſo far from being taken off, which was faithfully promiſed, that they are rather encreaſed, which we fear was really in<g ref="char:EOLhyphen"/>tended: Our most Gracious Soveraigne, not<g ref="char:EOLhyphen"/>withſtanding your frequent Proteſtations of bringing Him with Safety and Honour to His great Counſell, is under moſt barbarous Re<g ref="char:EOLhyphen"/>ſtraint; our Lawes are fallen into a Lethurgy, Arbitrary power, and the ſtronger Sword carry all before them; but above all, the moſt formi<g ref="char:EOLhyphen"/>dable apprehenſion of this Kingdomes being once more made an <hi>Aceldema,</hi> to the high provocation of Gods ſevereſt wrath, if not ut<g ref="char:EOLhyphen"/>terly to ruine, yet at leaſt to enſlave us and our Posterities to the prevayling party.</p>
+            <p>Doe therefore in all humility hold forth to your grave wiſdoms what by Gods bleſsing, and your timely concurrence, may prove effectuall for the ſpeedy cure of thoſe maladies under which this bleeding Common-wealth is ready to expire.</p>
+            <p>And firſt, wee doe with ſubmiſsion to better
+<pb facs="tcp:161809:4"/>
+               <!-- PDF PAGE 58 -->judgements conjecture, that together with the many ſins of this Nation, that which hath had an eſpeciall influence in the ripening of theſe Judgements hath been that little regard given to, and the overſleight laying aſide of his Ma<g ref="char:EOLhyphen"/>jeſties many and moſt gracious Meſsages, and moſt pious overtures for Peaee, and an happy underſtanding between him and his people, and this occaſioned as wee do more than probably o<g ref="char:EOLhyphen"/>pine by three ſorts. Firſt by th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe that thinke they have monopoliz'd all truth, and would therefore ſquare our Religion according to their own confuſed modules. Secondly by thoſe that ought to make audit for the many thou<g ref="char:EOLhyphen"/>ſands received for the publique, as was preten<g ref="char:EOLhyphen"/>ded, but converted or tranſported for their own private benefit. But thirdly, and principally by thoſe that had a deſigne by taking away Mo<g ref="char:EOLhyphen"/>narchicall Government, of making themſelves high and mighty States, and engroſing all Do<g ref="char:EOLhyphen"/>minion over their yet <hi>fellow Subjects</hi> into their own hands.</p>
+            <p>Having thus hinted upon the cauſes of our Having <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:161809:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 59 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:161809:6"/>
+               <!-- PDF PAGE 60 -->miſerie, we do with all ſubmiſsion preſent to the Honourable Houſes what to our beſt appre<g ref="char:EOLhyphen"/>henſion may prove ſoveraign for the Kingdoms recovery.</p>
+            <p>
+               <hi>And firſt, that the true reformed Prote<g ref="char:EOLhyphen"/>ſtant Religion profeſt in the reigns of Q.</hi> Elizabeth, <hi>and K.</hi> James <hi>of bleſſed memo<g ref="char:EOLhyphen"/>ry be re-eſtabliſht.</hi>
+            </p>
+            <p>
+               <hi>Secondly, that his</hi> Majeſty <hi>bee ſpeedily reſtor'd to a condition of Safety and Ho<g ref="char:EOLunhyphen"/>nour, and enjoy according to the com<g ref="char:EOLhyphen"/>mand of our bleſſed Saviour, all his indu<g ref="char:EOLhyphen"/>bitable Rights, who ſaith,</hi> give unto <hi>Caeſar</hi> the things that are <hi>Caeſars.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, that the Arrears of the Army under the command of the Lord</hi> Fairefax <hi>be ſpeedily audited, and they disbanded.</hi>
+            </p>
+            <p>
+               <hi>And laſtly that an account being given to the king<g ref="char:EOLhyphen"/>dom how that maſſe of Treaſure that hath bin rais'd is employed, that His Majeſty be deſired to paſſe an Act of Oblivion, and that his moſt Princely proffer of eaſe to tender Conſciences be thankfully embraced, all which your Petitioners deſire may be ſpeedily ap<g ref="char:EOLhyphen"/>plyed for the cure of this bleeding Common-wealth.</hi>
+            </p>
+            <p>And we ſhall for ever pray, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
